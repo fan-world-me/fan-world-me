@@ -27,6 +27,8 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 - 🤝 Open to collaboration & freelance work
 - 💬 Hit me up on [Telegram](https://t.me/fan_world_me) or [Discord](https://discord.com/users/fan_world_me)
 
+<div align="center">
+
 ```
                             .,                    
                       i:     t1                   
@@ -57,6 +59,8 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
                                 . ..              
 ```
 
+</div>
+
 <br>
 
 ### 🧰 Languages & Tools
@@ -83,8 +87,9 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=opencv,pytorch" />&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" height="48" alt="OpenAI"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="48" height="48" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="OpenAI"/>&nbsp;
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="48" alt="Gemini"/>&nbsp;
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="48" alt="Groq"/>
 </div>
 
 **Databases**
