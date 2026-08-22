@@ -163,74 +163,32 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 
 ### 🚀 My Projects
 
-<table align="center">
-<tr>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/tg-business-bot"><b>tg-business-bot</b></a><br>
-<sub>Telegram Business auto-reply bot<br>with Cloudflare AI + D1</sub>
-</td>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/crypto-ai-overlay"><b>crypto-ai-overlay</b></a><br>
-<sub>Real-time crypto signals<br>via 10 AI models in parallel</sub>
-</td>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/HyperOS-ColorLightManager-Research"><b>HyperOS-ColorLightManager</b></a><br>
-<sub>Reverse engineering RGB LED<br>on POCO X8 Pro / Redmi Turbo 5</sub>
-</td>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/Fan-World-Multitools"><b>Fan-World-Multitools</b></a><br>
-<sub>Fabric mod for Minecraft —<br>hotbar, elytra & PvP tools</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/quizai"><b>quizai</b></a><br>
-<sub>AI-powered quiz<br>browser extension</sub>
-</td>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/airalertmap"><b>airalertmap</b></a><br>
-<sub>Air alert map<br>for Ukraine (Kotlin)</sub>
-</td>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/extragram_plugins"><b>extragram_plugins</b></a><br>
-<sub>Plugins for Extragram<br>& AyuGram Telegram clients</sub>
-</td>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/PulseLauncher"><b>PulseLauncher</b></a><br>
-<sub>Minimal Android launcher<br>for Mi Health heart rate</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/brawl-stars-bot"><b>brawl-stars-bot</b></a><br>
-<sub>AI bot using YOLOv8<br>& ADB automation</sub>
-</td>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/todo_app"><b>todo_app</b></a><br>
-<sub>Cosmic Todo — FastAPI<br>+ SQLAlchemy + Glassmorphism</sub>
-</td>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/steam-idle"><b>steam-idle</b></a><br>
-<sub>Steam idle automation<br>tool (JavaScript)</sub>
-</td>
-<td align="center" width="150">
-<a href="https://github.com/fan-world-me/bybit-cloudflare-worker"><b>bybit-cloudflare-worker</b></a><br>
-<sub>Syncs Bybit trades to D1<br>via Cloudflare Worker</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+
+| | Project | Stack | Description |
+|---|---|---|---|
+| 🤖 | [**tg-business-bot**](https://github.com/fan-world-me/tg-business-bot) | `Python` `aiogram3` `Cloudflare D1` | Telegram Business auto-reply with multi-AI fallback, voice, PDF/DOCX parsing |
+| 📈 | [**crypto-ai-overlay**](https://github.com/fan-world-me/crypto-ai-overlay) | `Python` `FastAPI` `Bybit API` | Always-on-top overlay — 10 AI models vote BUY/SELL/HOLD in parallel |
+| 🔬 | [**HyperOS-ColorLightManager**](https://github.com/fan-world-me/HyperOS-ColorLightManager-Research) | `Java` `Shizuku` `Binder IPC` | Reverse engineering RGB LED ring on POCO X8 Pro / Redmi Turbo 5 |
+| 🎮 | [**Fan-World-Multitools**](https://github.com/fan-world-me/Fan-World-Multitools) | `Java` `Fabric API` `Mixin` | Minecraft 1.21 mod — elytra combos, mace PvP, auto totem |
+| 🧠 | [**quizai**](https://github.com/fan-world-me/quizai) | `JavaScript` `Web Extensions` | AI-powered quiz browser extension |
+| 🗺️ | [**airalertmap**](https://github.com/fan-world-me/airalertmap) | `Kotlin` `Android SDK` | Real-time air alert map for Ukraine |
+| 💬 | [**extragram_plugins**](https://github.com/fan-world-me/extragram_plugins) | `Kotlin` `Extragram` | Plugins for AyuGram / Extragram Telegram clients |
+| 📱 | [**PulseLauncher**](https://github.com/fan-world-me/PulseLauncher) | `TypeScript` `Android` | Minimal launcher that instantly opens Mi Health heart rate screen |
+| 🎯 | [**brawl-stars-bot**](https://github.com/fan-world-me/brawl-stars-bot) | `Python` `YOLOv8` `ADB` | AI bot for Brawl Stars using computer vision |
+| ✅ | [**todo_app**](https://github.com/fan-world-me/todo_app) | `FastAPI` `SQLAlchemy` `HTML` | Cosmic Todo — glassmorphism UI with JWT auth |
+| 🎮 | [**steam-idle**](https://github.com/fan-world-me/steam-idle) | `JavaScript` `Steam API` | Steam game idle automation tool |
+| 📊 | [**bybit-cloudflare-worker**](https://github.com/fan-world-me/bybit-cloudflare-worker) | `Python` `Cloudflare Workers` `D1` | Syncs Bybit trades to D1 database every 6h |
+
+</div>
 
 <br>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fan-world-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-world-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fan-world-me&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" />
+  <img src="metrics.stats.svg" />
+  <img src="metrics.langs.svg" />
 </div>
 
 <div align="center">
