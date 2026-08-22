@@ -171,8 +171,8 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fan-world-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-world-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fan-world-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fan-world-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&count_private=true" />
 </div>
 
 <div align="center">
@@ -180,5 +180,9 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fan-world-me&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fan-world-me&theme=tokyo-night&bg_color=0d1117&color=06b6d4&line=06b6d4&point=ffffff&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fan-world-me&theme=tokyonight" />
 </div>
