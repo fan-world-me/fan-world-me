@@ -61,8 +61,48 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 
 ### 🧰 Languages & Tools
 
+**Frontend**
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,cpp,dart,html,css,nodejs,fastapi,docker,postgres,cloudflare,androidstudio,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,webpack,tailwind,sass" />
+</div>
+
+**Backend & Cloud**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,php,flask,cloudflare,docker,nginx" />
+</div>
+
+**Mobile & Cross-platform**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,flutter,dart,firebase,gradle" />
+</div>
+
+**AI & Data**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch" />&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" height="48" alt="OpenAI"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="48" height="48" alt="Gemini"/>
+</div>
+
+**Databases**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+</div>
+
+**Tools**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,electron,idea,vscode" />
+</div>
+
+**Languages**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,cpp,dart,swift,php,bash" />
 </div>
 
 <br>
@@ -85,7 +125,7 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 </td>
 <td align="center" width="150">
 <a href="https://github.com/fan-world-me/Fan-World-Multitools"><b>Fan-World-Multitools</b></a><br>
-<sub>Multi-purpose utility toolkit</sub>
+<sub>Fabric mod for Minecraft —<br>hotbar, elytra & PvP tools</sub>
 </td>
 </tr>
 <tr>
@@ -132,9 +172,13 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fan-world-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-world-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-world-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&count_private=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fan-world-me&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" />
+  <img src="https://streak-stats.demolab.com/?user=fan-world-me&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fan-world-me&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4" />
 </div>
