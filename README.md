@@ -190,7 +190,3 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
   <img src="metrics.stats.svg" />
   <img src="metrics.langs.svg" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fan-world-me&theme=tokyo-night&bg_color=0d1117&color=06b6d4&line=06b6d4&point=ffffff&hide_border=true" />
-</div>
