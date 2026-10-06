@@ -39,3 +39,46 @@ jobs:
           plugin_languages_limit: 10
           plugin_languages_threshold: 0%
           config_timezone: Europe/Kiev
+
+  keep-alive:
+    runs-on: ubuntu-latest
+    # Only run on schedule, not on every push (would be pointless)
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Empty commit if 40+ days since last real commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Find the last commit NOT made by github-actions[bot]
+          last_human_commit="$(git log --oneline \
+            --author='^(?!github-actions\[bot\])' \
+            --perl-regexp \
+            --format="%H" \
+            -1 2>/dev/null || true)"
+
+          if [ -z "$last_human_commit" ]; then
+            last_human_commit="$(git rev-list --max-parents=0 HEAD)"
+          fi
+
+          last_date="$(git log -1 --format="%ct" "$last_human_commit")"
+          now="$(date +%s)"
+          days_since=$(( (now - last_date) / 86400 ))
+
+          echo "Days since last non-bot commit: $days_since"
+
+          if [ "$days_since" -ge 40 ]; then
+            echo "40+ days without activity — creating keep-alive empty commit"
+            git commit --allow-empty \
+              -m "chore: keep workflow alive (${days_since}d since last commit)"
+            git push
+          else
+            echo "Last commit was ${days_since} days ago — no keep-alive needed"
+          fi
