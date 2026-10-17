@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://t.me/fan_world_me"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram"/></a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/fan_world_me"><img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord"/></a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/1040301536036786248"><img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord"/></a>&nbsp;&nbsp;
   <a href="mailto:yarik.kom2011@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" alt="Gmail"/></a>&nbsp;&nbsp;
   <a href="https://fan-world-me.github.io/"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="32" height="32" alt="Portfolio"/></a>&nbsp;&nbsp;
   <a href="https://github.com/fan-world-me"><img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="GitHub"/></a>
@@ -22,10 +22,10 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 
 - 🛠️ Currently in active dev mode — always something cooking
 - 🤖 Building AI-powered Telegram bots and browser extensions
-- 📱 Digging into Android/HyperOS internals for fun (see **HyperOS-ColorLightManager-Research** below)
+- 📱 Digging into Android/HyperOS internals for fun (see **HaloLight** below)
 - 🌐 Portfolio: [fan-world-me.github.io](https://fan-world-me.github.io/)
 - 🤝 Open to collaboration & freelance work
-- 💬 Hit me up on [Telegram](https://t.me/fan_world_me) or [Discord](https://discord.com/users/fan_world_me)
+- 💬 Hit me up on [Telegram](https://t.me/fan_world_me) or [Discord](https://discord.com/users/1040301536036786248)
 
 <div align="center">
 
@@ -73,10 +73,9 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div>
@@ -89,10 +88,8 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-433D3C?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
 **Backend & Cloud**
@@ -104,8 +101,6 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
 **Mobile & Cross-platform**
@@ -114,10 +109,7 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
   <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
 
 **AI & LLM**
@@ -137,12 +129,10 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </div>
 
 **Tools**
@@ -151,7 +141,6 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
@@ -169,7 +158,7 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 |---|---|---|---|
 | 🤖 | [**tg-business-bot**](https://github.com/fan-world-me/tg-business-bot) | `Python` `aiogram3` `Cloudflare D1` | Telegram Business auto-reply with multi-AI fallback, voice, PDF/DOCX parsing |
 | 📈 | [**crypto-ai-overlay**](https://github.com/fan-world-me/crypto-ai-overlay) | `Python` `FastAPI` `Bybit API` | Always-on-top overlay — 10 AI models vote BUY/SELL/HOLD in parallel |
-| 🔬 | [**HyperOS-ColorLightManager**](https://github.com/fan-world-me/HyperOS-ColorLightManager-Research) | `Java` `Shizuku` `Binder IPC` | Reverse engineering RGB LED ring on POCO X8 Pro / Redmi Turbo 5 |
+| 🔬 | [**HaloLight**](https://github.com/fan-world-me/HaloLight) | `Kotlin` `Java` `Shizuku` `Binder IPC` | RGB camera ring research + Android app for POCO X8 Pro / Redmi Turbo 5 |
 | 🎮 | [**Fan-World-Multitools**](https://github.com/fan-world-me/Fan-World-Multitools) | `Java` `Fabric API` `Mixin` | Minecraft 1.21 mod — elytra combos, mace PvP, auto totem |
 | 🧠 | [**quizai**](https://github.com/fan-world-me/quizai) | `JavaScript` `Web Extensions` | AI-powered quiz browser extension |
 | 🗺️ | [**airalertmap**](https://github.com/fan-world-me/airalertmap) | `Kotlin` `Android SDK` | Real-time air alert map for Ukraine |
