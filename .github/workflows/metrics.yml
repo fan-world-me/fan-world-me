@@ -19,7 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.stats.svg
           base: header, activity, community, repositories
-          plugin_lines: yes
           config_timezone: Europe/Kiev
           config_display: large
           config_animations: yes
