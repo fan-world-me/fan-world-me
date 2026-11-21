@@ -162,10 +162,12 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building Telegram bots, 
 | 🤖 | [**tg-business-bot**](https://github.com/fan-world-me/tg-business-bot) | `Python` `aiogram3` `Cloudflare D1` | Telegram Business auto-reply with multi-AI fallback, voice, PDF/DOCX parsing |
 | 📈 | [**crypto-ai-overlay**](https://github.com/fan-world-me/crypto-ai-overlay) | `Python` `NVIDIA NIM` `Groq` | Always-on-top overlay — 10 AI models vote BUY/SELL/HOLD in parallel |
 | 🔬 | [**HaloLight**](https://github.com/fan-world-me/HaloLight) | `Kotlin` `Java` `Shizuku` `Binder IPC` | RGB camera ring research + Android app for POCO X8 Pro / Redmi Turbo 5 |
-| 🎮 | [**Fan-World-Multitools**](https://github.com/fan-world-me/Fan-World-Multitools) | `Java` `Fabric API` `Mixin` | Minecraft 1.21 mod — elytra combos, mace PvP, auto totem |
+| 🎮 | [**multitools**](https://github.com/fan-world-me/multitools) | `Java` `Fabric API` `Mixin` | Minecraft 1.21 mod — elytra combos, mace PvP, auto totem |
 | 🗺️ | [**airalertmap**](https://github.com/fan-world-me/airalertmap) | `Kotlin` `Android SDK` | Real-time air alert map for Ukraine |
 | 🔁 | [**moodle-autoreconnect**](https://github.com/fan-world-me/moodle-autoreconnect) | `JavaScript` `MV3` | Chrome/Firefox extension — auto relogin and session keepalive for Moodle |
 | 🧠 | [**quizai**](https://github.com/fan-world-me/quizai) | `JavaScript` `Web Extensions` | AI-powered quiz browser extension |
+| 🛡️ | [**vseosvita-focus-guard**](https://github.com/fan-world-me/vseosvita-focus-guard) | `JavaScript` `MV3` `MV2` | Chrome/Firefox extension — neutralizes focus tracking and tab-visibility detection on vseosvita.ua |
+| ♟️ | [**chess_ai**](https://github.com/fan-world-me/chess_ai) | `JavaScript` `Stockfish WASM` | Real-time chess engine analyzer for Chess.com and Lichess powered by local Stockfish |
 | 💬 | [**extragram_plugins**](https://github.com/fan-world-me/extragram_plugins) | `Python` `Extragram` | Plugins for AyuGram / Extragram Telegram clients |
 | 🧹 | [**punto-cleaner**](https://github.com/fan-world-me/punto-cleaner) | `PowerShell` | Research and tools to remove Yandex analytics from Punto Switcher |
 | 🖥️ | [**Telegram-Remote-Desktop**](https://github.com/fan-world-me/Telegram-Remote-Desktop) | `Python` | Control your Windows PC remotely via Telegram bot |
