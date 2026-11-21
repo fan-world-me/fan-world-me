@@ -168,10 +168,8 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building Telegram bots, 
 | 🧠 | [**quizai**](https://github.com/fan-world-me/quizai) | `JavaScript` `Web Extensions` | AI-powered quiz browser extension |
 | 🛡️ | [**vseosvita-focus-guard**](https://github.com/fan-world-me/vseosvita-focus-guard) | `JavaScript` `MV3` `MV2` | Chrome/Firefox extension — neutralizes focus tracking and tab-visibility detection on vseosvita.ua |
 | ♟️ | [**chess_ai**](https://github.com/fan-world-me/chess_ai) | `JavaScript` `Stockfish WASM` | Real-time chess engine analyzer for Chess.com and Lichess powered by local Stockfish |
-| 💬 | [**extragram_plugins**](https://github.com/fan-world-me/extragram_plugins) | `Python` `Extragram` | Plugins for AyuGram / Extragram Telegram clients |
 | 🧹 | [**punto-cleaner**](https://github.com/fan-world-me/punto-cleaner) | `PowerShell` | Research and tools to remove Yandex analytics from Punto Switcher |
 | 🖥️ | [**Telegram-Remote-Desktop**](https://github.com/fan-world-me/Telegram-Remote-Desktop) | `Python` | Control your Windows PC remotely via Telegram bot |
-| 📱 | [**PulseLauncher**](https://github.com/fan-world-me/PulseLauncher) | `TypeScript` `Android` | Minimal launcher that instantly opens Mi Health heart rate screen |
 | 🥚 | [**Egg16**](https://github.com/fan-world-me/Egg16) | `Kotlin` `Android` | One-tap launcher for the Android 16 Easter Egg |
 | 🎯 | [**brawl-stars-bot**](https://github.com/fan-world-me/brawl-stars-bot) | `Python` `YOLOv8` `ADB` | AI bot for Brawl Stars using computer vision |
 | 📊 | [**bybit-cloudflare-worker**](https://github.com/fan-world-me/bybit-cloudflare-worker) | `Python` `Cloudflare Workers` `D1` | Syncs Bybit trades to D1 database every 6h |
