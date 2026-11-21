@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensions, Telegram bots, AI integrations and Android tools. Also enjoy reverse-engineering things I'm not supposed to 🔍
+Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building Telegram bots, browser extensions, AI integrations and Android tools. Also enjoy reverse-engineering things I'm not supposed to 🔍
 </div>
 
 <br>
@@ -21,7 +21,8 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 ### 💭 More about me
 
 - 🛠️ Currently in active dev mode — always something cooking
-- 🤖 Building AI-powered Telegram bots and browser extensions
+- 🤖 Telegram bots on Python + aiogram3 + FastAPI, deployed on Fly.io and Cloudflare
+- 🧩 Browser extensions (MV3, Chrome/Firefox) and plugins for Telegram clients
 - 📱 Digging into Android/HyperOS internals for fun (see **HaloLight** below)
 - 🌐 Portfolio: [fan-world-me.github.io](https://fan-world-me.github.io/)
 - 🤝 Open to collaboration & freelance work
@@ -99,6 +100,7 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=for-the-badge&logo=flydotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
@@ -156,17 +158,20 @@ Fullstack dev out of Zaporizhzhia, Ukraine 🇺🇦 — building browser extensi
 
 | | Project | Stack | Description |
 |---|---|---|---|
+| 💡 | [**zp_light_bot**](https://github.com/fan-world-me/zp_light_bot) | `Python` `aiogram3` `FastAPI` `Fly.io` | Telegram bot with power outage schedule notifications for Zaporizhzhia |
 | 🤖 | [**tg-business-bot**](https://github.com/fan-world-me/tg-business-bot) | `Python` `aiogram3` `Cloudflare D1` | Telegram Business auto-reply with multi-AI fallback, voice, PDF/DOCX parsing |
-| 📈 | [**crypto-ai-overlay**](https://github.com/fan-world-me/crypto-ai-overlay) | `Python` `FastAPI` `Bybit API` | Always-on-top overlay — 10 AI models vote BUY/SELL/HOLD in parallel |
+| 📈 | [**crypto-ai-overlay**](https://github.com/fan-world-me/crypto-ai-overlay) | `Python` `NVIDIA NIM` `Groq` | Always-on-top overlay — 10 AI models vote BUY/SELL/HOLD in parallel |
 | 🔬 | [**HaloLight**](https://github.com/fan-world-me/HaloLight) | `Kotlin` `Java` `Shizuku` `Binder IPC` | RGB camera ring research + Android app for POCO X8 Pro / Redmi Turbo 5 |
 | 🎮 | [**Fan-World-Multitools**](https://github.com/fan-world-me/Fan-World-Multitools) | `Java` `Fabric API` `Mixin` | Minecraft 1.21 mod — elytra combos, mace PvP, auto totem |
-| 🧠 | [**quizai**](https://github.com/fan-world-me/quizai) | `JavaScript` `Web Extensions` | AI-powered quiz browser extension |
 | 🗺️ | [**airalertmap**](https://github.com/fan-world-me/airalertmap) | `Kotlin` `Android SDK` | Real-time air alert map for Ukraine |
-| 💬 | [**extragram_plugins**](https://github.com/fan-world-me/extragram_plugins) | `Kotlin` `Extragram` | Plugins for AyuGram / Extragram Telegram clients |
+| 🔁 | [**moodle-autoreconnect**](https://github.com/fan-world-me/moodle-autoreconnect) | `JavaScript` `MV3` | Chrome/Firefox extension — auto relogin and session keepalive for Moodle |
+| 🧠 | [**quizai**](https://github.com/fan-world-me/quizai) | `JavaScript` `Web Extensions` | AI-powered quiz browser extension |
+| 💬 | [**extragram_plugins**](https://github.com/fan-world-me/extragram_plugins) | `Python` `Extragram` | Plugins for AyuGram / Extragram Telegram clients |
+| 🧹 | [**punto-cleaner**](https://github.com/fan-world-me/punto-cleaner) | `PowerShell` | Research and tools to remove Yandex analytics from Punto Switcher |
+| 🖥️ | [**Telegram-Remote-Desktop**](https://github.com/fan-world-me/Telegram-Remote-Desktop) | `Python` | Control your Windows PC remotely via Telegram bot |
 | 📱 | [**PulseLauncher**](https://github.com/fan-world-me/PulseLauncher) | `TypeScript` `Android` | Minimal launcher that instantly opens Mi Health heart rate screen |
+| 🥚 | [**Egg16**](https://github.com/fan-world-me/Egg16) | `Kotlin` `Android` | One-tap launcher for the Android 16 Easter Egg |
 | 🎯 | [**brawl-stars-bot**](https://github.com/fan-world-me/brawl-stars-bot) | `Python` `YOLOv8` `ADB` | AI bot for Brawl Stars using computer vision |
-| ✅ | [**todo_app**](https://github.com/fan-world-me/todo_app) | `FastAPI` `SQLAlchemy` `HTML` | Cosmic Todo — glassmorphism UI with JWT auth |
-| 🎮 | [**steam-idle**](https://github.com/fan-world-me/steam-idle) | `JavaScript` `Steam API` | Steam game idle automation tool |
 | 📊 | [**bybit-cloudflare-worker**](https://github.com/fan-world-me/bybit-cloudflare-worker) | `Python` `Cloudflare Workers` `D1` | Syncs Bybit trades to D1 database every 6h |
 
 </div>
